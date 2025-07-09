@@ -13,7 +13,7 @@ Script này được viết bởi Trí nhằm thực hiện chức năng cốt l
 Lưu đồ giải thuật (flowchart) cần tải file vHostManagement.drawio và truy cập draw.io để mở file
 
 #### Luồng đi chính:
-1. Tạo ra vòng lặp while với 8 switch case, hiển thị như một menu (màn hình chính), mỗi tuỳ chọn sẽ gọi 1 function để giải quyết, ngoại trừ option thoát và option kiểm tra người dùng nhập dữ liệu ngoài switch case
+1. Tạo ra vòng lặp while với  switch case gồm 8 options, hiển thị như một menu (màn hình chính), mỗi tuỳ chọn sẽ gọi 1 function để giải quyết, ngoại trừ option thoát và option kiểm tra người dùng nhập dữ liệu ngoài switch case
 2. Sau khi thực hiện xong một function thì sẽ về lại màn hình chính
 3. Trước khi vào vòng lặp thì script chạy sẽ cài đặt các phần mềm cần thiết như curl, apache, mysql, php và wp-cli
 
