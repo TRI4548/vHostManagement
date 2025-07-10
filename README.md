@@ -22,6 +22,9 @@ Lưu đồ giải thuật (flowchart) cần tải file vHostManagement.drawio v�
 - Kiểm tra đầu vào (regex) cho input của user
 - Có thể tuỳ biến các version php khác nhau cho từng vhost
 - Có thể tìm kiếm và search các php extension và install hàng loạt
+- Chức năng search vHost
+- Chức năng quản lý database dòng lệnh và phpMyAdmin
+- Chức năng cài SSL
 
 #### Tài liệu tham khảo:
 - Bash basic: https://www.w3schools.com/bash/
